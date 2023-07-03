@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "test": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "OLE_DB_CONNECTION_STRING": "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\\Users\\franc\\OneDrive\\Desktop\\Apps\\OleDbCrudRepository\\test.accdb;"
+      }
+    }
+  }
+}
+
